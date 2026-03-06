@@ -1,5 +1,5 @@
 CalcLcm. C# Tutorials. DotNet Core Platform. Algorithms. Simple Input/Output. Console Application. 
-A console application in the C++ programming language. 
+A console application in the C# programming language. 
 The program does the following:
   1. Prompts the user for two integers whose greatest common divisor needs to be found.
   2. Compares each to zero. If at least one of them is zero, the program displays a message stating that the numbers must not be zero-valued and terminates.
@@ -14,7 +14,7 @@ The program does the following:
 Developed in the Microsoft Visual Studio integrated environment.
 
 Calclcm. Занятия по С#. Платформа DotNet Core. Алгоритмы. Простой ввод/вывод. Консольное приложение.
-Консольное приложение написанное на языке программирования C++. 
+Консольное приложение написанное на языке программирования C#. 
 Программа делает следующее:
   1. Запрашивает у пользователя два целых числа, наибольший общий делитель которых нужно найти.
   2. Сравнивает каждое с нулём. Если хотя бы одно из них равно нулю, программа выводит сообщение о том, что числа не должны быть рамными нулю и завершает работу.
